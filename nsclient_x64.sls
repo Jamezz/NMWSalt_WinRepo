@@ -1,4 +1,4 @@
-nsclient:
+nsclient_x64:
     0.4.3.88:
         installer: 'http://files.nsclient.org/released/NSCP-0.4.3.88-x64.msi'
         full_name:  'NSClient++ (x64)'
