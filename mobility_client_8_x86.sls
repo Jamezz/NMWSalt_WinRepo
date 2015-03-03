@@ -4,6 +4,6 @@ mobility_client_8_x86:
     full_name: 'NetMotion Mobility Client'
     reboot: True
     msiexec: True
-    install_flags: ' /quiet /norestart'
+    install_flags: ' /quiet'
     uninstaller: 'http://mobility-ota.dtest.nmwco.com/Builds/10.70/Mobility_xg_client_10.70_Win8_x86_release.msi'
     uninstall_flags: ' /uninstall /quiet /norestart'
