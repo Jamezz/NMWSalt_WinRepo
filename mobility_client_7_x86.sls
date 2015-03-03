@@ -1,4 +1,4 @@
-mobility_client_7_x86:
+mobility_client:
   10.70:
     installer: 'http://mobility-ota.dtest.nmwco.com/Builds/10.70/Mobility_xg_client_10.70_Win7_x86_release.msi'
     full_name: 'NetMotion Mobility Client'
